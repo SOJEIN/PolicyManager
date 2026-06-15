@@ -1,0 +1,12 @@
+{
+  "name": "policy-manager",
+  "private": true,
+  "scripts": {
+    "setup": "npm install && npm install --prefix backend && npm install --prefix frontend && node backend/seed.js",
+    "start": "concurrently --names \"api,ui\" --prefix-colors \"blue,green\" \"npm start --prefix backend\" \"npm run dev --prefix frontend\"",
+    "test": "npm test --prefix backend"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
