@@ -12,7 +12,7 @@ Desarrollado como prueba técnica para Agentemotor.
 <!-- leyendo las secciones más relevantes de spec.md en voz alta y comentando -->
 <!-- al final la decisión que más tiempo te tomó pensar. Luego reemplaza esta línea: -->
 
-**[Link al video →](https://)**
+**[Link al video →](https://youtu.be/ggOxli1NBsk)**
 
 ---
 
